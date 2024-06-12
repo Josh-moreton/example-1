@@ -1,3 +1,4 @@
+baseURL = "https://josh-moreton.github.io/example-1/"
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "newsroom"
