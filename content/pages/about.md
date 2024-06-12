@@ -1,7 +1,7 @@
 +++
 title = "About"
 date = "2014-04-09"
-image = "/images/street.jpg"
+image = "/example-1/images/street.jpg"
 # url = "/about/" # override permalinks section of hugo.toml file
 +++
 
